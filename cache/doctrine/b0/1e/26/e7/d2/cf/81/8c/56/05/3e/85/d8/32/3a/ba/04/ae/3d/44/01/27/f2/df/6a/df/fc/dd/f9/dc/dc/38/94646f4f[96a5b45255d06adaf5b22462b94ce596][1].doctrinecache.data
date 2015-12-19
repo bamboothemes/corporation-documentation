@@ -1,0 +1,16 @@
+1444190792
+s:742:"<h4>What is this?</h4>
+<p><img src="/docs/medica/images/frontpage/meet-the-team.jpg" alt="Meet the team" /></p>
+<p>The meet the team carousel used on the demo site is an instance of the Zentools2 module published to the grid9 position.</p>
+<p>It uses the item image, item title and introtext from the Meet the Team category and the readmore.</p>
+<p>The layout items being used are:</p>
+<ul>
+<li>Image</li>
+<li>Title</li>
+<li>Introtext</li>
+<li>Readmore</li>
+</ul>
+<h4>Module settings</h4>
+<p><img src="/docs/medica/images/frontpage/meet-the-team-settings.png" alt="Zentools grid layout" /></p>
+<h4>Settings used for the reamore overlay</h4>
+<p><img src="/docs/medica/images/frontpage/meet-the-team-readmore.jpg" alt="Zentools Readmore" /></p>";

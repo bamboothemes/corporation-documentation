@@ -1,0 +1,5 @@
+1444181712
+s:478:"<h4>Settings</h4>
+<p>The home icon that is rendered in the main menu uses the zen menu plugin. The settings available for the menu icon can be found in the zenmenu tab when editing any menu item via the Joomla menu manager.</p>
+<p><img src="/docs/medica/images/shortcodes/zenmenu-setting.png" alt="Home icon" /></p>
+<p>To add an icon to your menu simply select the menu item you want to attach the icon to, navigate to the zenmenu menu tab and select the icon from the list.</p>";

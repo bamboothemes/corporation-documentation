@@ -1,0 +1,15 @@
+1451090816
+s:1592:"<p><img src="/docs/corporation/images/frontpage/top-area.jpg" alt="Corporation Background Image" /></p>
+<h2>What are the elements that make up the display here?</h2>
+<ul>
+<li>The background image is controlled via the template settings. The image here is designed to fill the entire page contents.</li>
+<li>The overlay colour. There is a transparent overlay that sits on top of the image and underneath the content here. This is controlled via the template's theme settings.</li>
+<li>The menu is the default Joomla menu.</li>
+<li>The word corporation is a custom html module published to the logo position. (See the <a href="/logo">Logo settings</a> for more information)</li>
+<li>The social icons are controlled via the template (under the social panel in the template settings).</li>
+<li>Customer login is the hidden panel trigger. This automatically appears whenever a module is published to the panel position.</li>
+<li>The three bars in the top right is the offcanvas trigger. These bars appear whenever the offcanvas menu is selected as the responsive menu option or when you have a module published ot the offcanvas position.</li>
+</ul>
+<p><img src="/docs/corporation/images/frontpage/bg-settings.png" alt="Corporation Background Settings" /></p>
+<h2>Where do the images come from?</h2>
+<p>The template automatically lists the images located in the main images folder on your site and makes them available for use in the background. Images can be uploaded to this folder either via ftp or the <a href="https://docs.joomla.org/Help34:Content_Media_Manager">Joomla media manager</a>.</p>";

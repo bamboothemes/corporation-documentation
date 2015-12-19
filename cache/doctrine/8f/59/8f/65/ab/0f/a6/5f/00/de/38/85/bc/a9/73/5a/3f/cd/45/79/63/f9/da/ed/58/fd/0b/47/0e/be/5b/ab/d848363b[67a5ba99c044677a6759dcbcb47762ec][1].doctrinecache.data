@@ -1,0 +1,25 @@
+1451094295
+s:1221:"<h2>What is this?</h2>
+<p>The band of colour beneath the top area with the text "We relaunched our website. Take a look around to see what's new".  </p>
+<p><img src="/docs/corporation/images/frontpage/slogan.jpg" alt="Zentools2 Newsticker" /></p>
+<h2>Steps to recreate this module</h2>
+<p><strong> Module Manager </strong></p>
+<ol>
+<li>Navigate to the module manager in your Joomla administrator via extensions &gt; Module Manager</li>
+<li>Click new</li>
+<li>Select the custom html type module</li>
+<li>Copy the markup displayed below into the text area of the custom module.</li>
+<li>Assign the module to a module position (grid1).</li>
+<li>Ensure the module is published</li>
+<li>Give the module a title</li>
+<li>Set the module title to be hidden</li>
+<li>Save your new module.</li>
+</ol>
+<h2>Markup used in the module</h2>
+<pre><code>&lt;pre&gt;&lt;div class="zg-col-9 zg-col"&gt;
+&lt;h3 style="text-align: center;"&gt;{zen-rocket}{/zen-rocket}   We relaunched our website. Take a look around to see what's new.  &lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="zg-col-3 zg-col" style="text-align: center;"&gt;
+&lt;h4&gt;{zen-btn}Explore|http://www.joomlabamboo.com{/zen-btn}&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/pre&gt;</code></pre>";

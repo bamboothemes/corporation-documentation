@@ -1,0 +1,26 @@
+1447139697
+s:1275:"<h2>What is this?</h2>
+<p>The quote that sits below the recent work module on the front page below the main content.</p>
+<p><img src="/docs/ascent2/images/camper/camper.jpg" alt="Sidebar" /></p>
+<h2>Steps to recreate this layout</h2>
+<p>This item is a custom html module published to the grid17 module. </p>
+<p>The background colour used for this row is one of the row styles that can be assigned by row via the template settings. See below for more details.</p>
+<p><strong> Module Manager </strong></p>
+<ol>
+<li>Navigate to the module manager in your Joomla administrator via extensions &gt; Module Manager</li>
+<li>Click new</li>
+<li>Select the custom html type module</li>
+<li>Copy the markup displayed below into the text area of the custom module.</li>
+<li>Assign the module to a module position (sidebar2).</li>
+<li>Ensure the module is published</li>
+<li>Give the module a title</li>
+<li>Set the module title to be hidden</li>
+<li>Save your new module.</li>
+</ol>
+<h2>Content used in the three modules</h2>
+<p><strong> Make an appointment </strong></p>
+<pre>&lt;blockquote&gt;
+    &lt;p&gt;Cras nec lorem eget ligula varius aliquet at et mi.&lt;/p&gt;
+    &lt;/blockquote&gt;
+    &lt;p style="text-align: right;"&gt;&lt;em&gt;A Happy Camper&lt;/em&gt;&lt;/p&gt;
+</pre>";

@@ -1,0 +1,12 @@
+1447140907
+s:648:"<p>The ascent2 demo site uses a similar layout for sub pages that can be seen on the front page of the demo. </p>
+<p><strong>Modules used</strong> -
+Zentools2 / Custom html module / Search Module / Breadcrumb</p>
+<p><strong>Positions used</strong> -
+logo / top4 / panel / menu / banner / breadcrumbs / sidebar2</p>
+<p><img src="/docs/ascent2/images/sub-page/subpage-example.jpg" alt="Sub page" /></p>
+<h2>Description of modules</h2>
+<h4>Logo</h4>
+<p><a href="/logo">View instructions for setting up the logo</a></p>
+<h4>Large image behind menu and search box</h4>
+<p>This is an instance of the Zentools2 module published to the banner position.</p>";

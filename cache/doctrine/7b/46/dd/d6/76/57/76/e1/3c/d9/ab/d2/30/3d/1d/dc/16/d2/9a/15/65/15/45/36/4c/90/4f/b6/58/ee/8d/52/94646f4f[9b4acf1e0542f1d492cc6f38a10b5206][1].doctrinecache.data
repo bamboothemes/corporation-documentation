@@ -1,0 +1,6 @@
+1444180710
+s:498:"<h4>Settings</h4>
+<p>The settings used for both instances of the map module seen on the demo site can be seen in the screenshot below.</p>
+<p>The map on the front page uses the module class " overlay" in order to display the title of the module on top of the map.</p>
+<p>The map on the contact page is assigned to the banner position which automatically positions itself underneath the logo and navigation area.</p>
+<p><img src="/docs/medica/images/maps/map-setting.png" alt="Maps2 Settings" /></p>";

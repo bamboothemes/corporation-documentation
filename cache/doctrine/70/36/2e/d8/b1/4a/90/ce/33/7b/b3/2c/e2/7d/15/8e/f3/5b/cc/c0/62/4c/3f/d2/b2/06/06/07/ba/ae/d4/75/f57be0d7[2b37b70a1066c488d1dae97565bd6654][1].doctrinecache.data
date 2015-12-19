@@ -1,0 +1,47 @@
+1447136003
+s:2213:"<h2>What is this?</h2>
+<p>The main slideshow on the front page under the menu and above the main page content. This is an instance of the Zentools2 module published to the banner position. It uses the backstretch slideshow layout option available in Zentools2.</p>
+<p><img src="/docs/ascent2/images/slideshow/banner-slideshow.jpg" alt="Zentools2 Slideshow" /></p>
+<h2>Steps to recreate this module</h2>
+<p><strong> Module Manager </strong></p>
+<ol>
+<li>Navigate to the module manager in your Joomla administrator via extensions &gt; Module Manager</li>
+<li>Click new</li>
+<li>Select the zentools2 type module</li>
+<li>Give the module a name that you will remember eg like slideshow</li>
+<li>Set the module title to hide</li>
+<li>Assign the module to a module position (banner).</li>
+<li>Ensure the module is published</li>
+</ol>
+<p><img src="/docs/ascent2/images/slideshow/slideshow-module-settings.png" alt="Module settings" /></p>
+<p><strong> Options </strong></p>
+<ol>
+<li>Select the backstretch slideshow layout</li>
+<li>Select your content source eg Joomla </li>
+<li>Set your layout tags eg image, title, introtext, readmore</li>
+</ol>
+<p><img src="/docs/ascent2/images/slideshow/layout-tags.png" alt="Layout settings" /></p>
+<ol>
+<li>Image settings.
+<img src="/docs/ascent2/images/slideshow/image.png" alt="Image settings" /></li>
+<li>Title Settings
+<img src="/docs/ascent2/images/slideshow/title.png" alt="title settings" /></li>
+<li>Introtext Settings
+<img src="/docs/ascent2/images/slideshow/introtext.png" alt="Introtext settings" /></li>
+<li>
+<p>Readmore Settings
+<img src="/docs/ascent2/images/slideshow/readmore.png" alt="Readmore settings" /></p>
+</li>
+<li>Set your desired module settings eg slide duration etc</li>
+</ol>
+<p><img src="/docs/ascent2/images/slideshow/slideshow-module-options.png" alt="Module Options" /></p>
+<p><strong> Content </strong></p>
+<ol>
+<li>Go to the content panel</li>
+<li>Adjust the content settings so that the module shows the correct content</li>
+</ol>
+<p><img src="/docs/ascent2/images/slideshow/slideshow-module-content.png" alt="Module Content" /></p>
+<p><strong> Save the module </strong></p>
+<ol>
+<li>Click the save button in the top left of the page.</li>
+</ol>";

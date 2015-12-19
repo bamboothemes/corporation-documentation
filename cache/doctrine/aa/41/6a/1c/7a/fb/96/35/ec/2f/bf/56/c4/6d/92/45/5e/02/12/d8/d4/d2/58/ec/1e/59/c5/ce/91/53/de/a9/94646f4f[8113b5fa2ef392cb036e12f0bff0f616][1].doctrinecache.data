@@ -1,0 +1,15 @@
+1444182841
+s:1283:"<p>A plugin that is used to render font icons and other styling on the page via simple syntax.</p>
+<ul>
+<li><a href="http://joomlabamboo.com/index.php?option=com_docman&task=doc_download&gid=695&Itemid=">Download</a></li>
+<li><a href="http://docs.joomlabamboo.com/zen-grid-framework-4/theme/Using-shortcodes.html">Documentation</a></li>
+</ul>
+<h4>What is this?</h4>
+<p>The Zen Shortcode plugin is an updated version of our original JB Type plugin. Zen Shortcode has been specifically designed for use with the Zen Grid Framework v4. If you are using a template that is not compatible with Zen Grid Framework v4 please use the JB Type plugin in order to render functionality similar to the examples below.</p>
+<h4>Where is it used?</h4>
+<p>The Zenshortcode plugin is used on the demo in the following places:</p>
+<ul>
+<li>Icons seen in the main menu and dropdown menu. These icons is added via the Zenmenu plugin.</li>
+<li>Icons used in the <strong>Comfort for You</strong> module position. These icons are rendered using the zen shortcode syntax as per the following: {zen-heart}{/zen-heart}. <a href="layout/front-page/comfor-for-you">View instructions</a>.</li>
+<li>User icon for the customer login menu item int he top menu. This icon is added int he template settings.</li>
+</ul>";

@@ -1,0 +1,39 @@
+1444182579
+s:2647:"<p>The Comfort for you module on the demo home page is an example of using the Zenshortcode plugin to render a grid of content as well as font icons.</p>
+<p><img src="/docs/medica/images/frontpage/comfort-for-you.jpg" alt="Comfort for you" /></p>
+<h4>Steps to recreate this module</h4>
+<p>This module is a custom html module published to the grid8 module position.</p>
+<ol>
+<li>Navigate to the module manager in your Joomla administrator via extensions &gt; Module Manager</li>
+<li>Click new</li>
+<li>Select the custom html type module</li>
+<li>Copy the markup displayed below into the text area of the custom module.</li>
+<li>Assign the module to a module position (grid8).</li>
+<li>Ensure the moduel is published</li>
+<li>Give the module a title</li>
+<li>Set the module title to be hidden</li>
+<li>Save your new module.</li>
+</ol>
+<h4>Markup Used</h4>
+<pre><code>&lt;p&gt;Curabitur vestibulum fringilla mi, id dictum dolor lobortis non. In lacus mauris, porttitor quis egestas ac, luctus non erat. &lt;br /&gt;Duis vulputate tincidunt lorem a tempor. Suspendisse potenti.&lt;/p&gt;
+{zen-row}
+    {zen-4}
+    {zen-ambulance}{/zen-ambulance}
+    &lt;h3&gt;Emergency Services&lt;/h3&gt;
+    &lt;p&gt;&lt;strong&gt;Runner up excellence awards&lt;/strong&gt;&lt;br /&gt;
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vivamus elit velit, tempor quis ligula sed, euismod pretium neque. Maecenas aliquam quam at consequat faucibus. Mauris quis elit elit.&lt;/p&gt;
+    {/zen-4}
+    {zen-4}
+        &lt;p&gt;{zen-heart-o}{/zen-heart-o}&lt;/p&gt;
+        &lt;h3&gt;Accessibility&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Three times accessibility champions&lt;/strong&gt;&lt;br /&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Vivamus elit velit, tempor quis ligula sed, euismod pretium neque. Maecenas aliquam quam at consequat faucibus. Mauris quis elit elit.&lt;/p&gt;
+    {/zen-4} 
+    {zen-4}
+        &lt;p&gt;{zen-medkit}{/zen-medkit}&lt;/p&gt;
+        &lt;h3&gt;Competent Staff&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Friendly staff 2015&lt;/strong&gt;&lt;br /&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Vivamus elit velit, tempor quis ligula sed, euismod pretium neque. Maecenas aliquam quam at consequat faucibus. Mauris quis elit elit.&lt;/p&gt;
+    {/zen-4}
+{/zen-row}</code></pre>
+<h4>Setting the background color</h4>
+<p>The demo site features a bright red background behind this module position. This color is specified in the template settings under the row style section under the theme panel.</p>
+<p><img src="/docs/medica/images/settings/row-style.jpg" alt="Comfort for you settings" /></p>";

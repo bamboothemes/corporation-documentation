@@ -1,0 +1,30 @@
+1451097217
+s:1690:"<h2>What is this?</h2>
+<p>The two bottom modules titled Popular items and Latest news.</p>
+<p><img src="/docs/corporation/images/bottom/bottom.png" alt="Camper" /></p>
+<h2>Steps to recreate this layout</h2>
+<p>This content is rendered using the default settings for the mostread and latest news modules that come with Joomla 3+. </p>
+<p>The background colour used for this row is one of the row styles that can be assigned by row via the template settings. See below for more details.</p>
+<p><strong> Popular items </strong>
+This module is published to the bottom1 position.</p>
+<p><strong> Latest News </strong>
+This module is published to the bottom6 position.</p>
+<h2>Row Styles set in the template</h2>
+<p>The background colour used for this row is determined by the template and can be found in the theme panel in the template administrator.</p>
+<p>The row style is applied to a row of modules grouped by their respective rows.</p>
+<ul>
+<li>Top row - top1,top2,top3,top4</li>
+<li>Banner row - banner</li>
+<li>Grid1 row - grid1,grid2,grid3,grid4</li>
+<li>Grid2 row - grid5,grid6,grid7,grid8</li>
+<li>Grid3 row - grid9,grid10,grid11,grid12</li>
+<li>Grid4 row - grid13,grid14,grid15,grid16</li>
+<li>Grid5 row - grid17,grid18,grid19,grid20</li>
+<li>Grid6 row - grid21,grid22,grid23,grid24</li>
+<li>Bottom row - bottom1,bottom2,bottom3,bottom4,bottom5,bottom6</li>
+<li>Top row - top1,top2,top3,top4</li>
+</ul>
+<p><strong> Row Styles in the template settings </strong>
+<img src="/docs/corporation/images/row-styles/row-style.png" alt="Row styles" /></p>
+<p><strong> Example Options </strong>
+<img src="/docs/corporation/images/row-styles/row-style-options.png" alt="Row Style Options" /></p>";

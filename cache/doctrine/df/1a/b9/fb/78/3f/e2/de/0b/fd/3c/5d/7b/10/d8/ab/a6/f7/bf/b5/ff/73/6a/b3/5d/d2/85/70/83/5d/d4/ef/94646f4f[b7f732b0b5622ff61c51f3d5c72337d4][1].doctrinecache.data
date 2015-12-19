@@ -1,0 +1,15 @@
+1446070891
+s:1118:"<p>The hidden panel is a module position that sits on top of the page in a modal window after the user clicks on the hidden panel trigger. The panel is automatically created when a module position is published to the panel position.</p>
+<h3>Hidden panel Example</h3>
+<p><img src="/docs/medica/images/hidden-panel/hidden-panel-example.jpg" alt="Hidden Panel Example" /></p>
+<h3>Hidden Panel Trigger</h3>
+<p><img src="/docs/medica/images/hidden-panel/hidden-panel-trigger.jpg" alt="Hidden Panel Trigger" /></p>
+<h3>Hidden Panel Settings</h3>
+<p>Settings for the hidden panel are found in the template settings under the theme panel.</p>
+<ol>
+<li>Navigate to the theme panel and scroll down to the hidden panel section.
+<img src="/docs/medica/images/hidden-panel/theme-panel.png" alt="Theme Panel" /></li>
+</ol>
+<p>The title used for the theme panel trigger can be found here as well as the colour of the panel, overlay and other elements.
+<img src="/docs/medica/images/hidden-panel/hidden-panel-settings.png" alt="Hidden Panel Theme settings" /></p>
+<p>Changes to this area will require that less is compiled to css.</p>";

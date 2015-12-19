@@ -1,0 +1,6 @@
+1444106423
+s:548:"<p><img src="/docs/medica/images/logo/logo-display.jpeg" alt="Logo Font Color" /></p>
+<p>The logo for the Medica template uses a combination of an image and text in a custom html module published to the logo position.</p>
+<p>The markup used for the logo in this template is as per the following:</p>
+<pre><code>&lt;h2&gt;&lt;a href="../../"&gt;&lt;img src="images/logo.png" alt="" /&gt; MEDICA&lt;/a&gt; &lt;/h2&gt;</code></pre>
+<p>Images published to the logo position are designed to sit to the left of any text displayed in the custom html.</p>";

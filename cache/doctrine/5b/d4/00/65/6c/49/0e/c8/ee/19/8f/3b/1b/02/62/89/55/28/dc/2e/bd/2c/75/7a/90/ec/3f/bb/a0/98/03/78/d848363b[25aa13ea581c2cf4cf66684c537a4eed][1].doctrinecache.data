@@ -1,0 +1,21 @@
+1451091653
+s:1845:"<p><img src="/docs/corporation/images/frontpage/top-area.jpg" alt="Corporation Background Image" /></p>
+<h2>What are the elements that make up the display here?</h2>
+<h2>Background Image</h2>
+<p>The background image is controlled via the template settings. The image here is designed to fill the entire page contents.</p>
+<p><img src="/docs/corporation/images/frontpage/background.jpg" alt="Background Settings" /></p>
+<h2>Transparent Overlay</h2>
+<p>The overlay colour. There is a transparent overlay that sits on top of the image and underneath the content here. This is controlled via the template's theme settings.</p>
+<p><img src="/docs/corporation/images/frontpage/overlay.jpg" alt="Corporation Background Image" /></p>
+<h2>Menu</h2>
+<p>The menu is the default Joomla menu.</p>
+<h2>Logo</h2>
+<p>The word corporation is a custom html module published to the logo position. (See the <a href="/docs/corporation/logo">Logo Settings</a>  for more information)</p>
+<h2>Social Icons</h2>
+<p>The social icons are controlled via the template (under the social panel in the template settings).</p>
+<p><img src="/docs/corporation/images/frontpage/social-settings.jpg" alt="Corporation Background Image" /></p>
+<h2>Customer Login</h2>
+<p>Customer login is the <a href="/docs/corporation/display/hidden-panel">Hidden Panel</a>  hidden panel trigger. This automatically appears whenever a module is published to the panel position. </p>
+<p><img src="/docs/corporation/images/frontpage/top-area.jpg" alt="Corporation Background Image" /></p>
+<h2>Offcanvas Trigger</h2>
+<p>The three bars in the top right is the offcanvas trigger. These bars appear whenever the offcanvas menu is selected as the responsive menu option or when you have a module published to the offcanvas position. <a href="/docs/corporation/display/off-canvas">Offcanvas settings</a></p>";

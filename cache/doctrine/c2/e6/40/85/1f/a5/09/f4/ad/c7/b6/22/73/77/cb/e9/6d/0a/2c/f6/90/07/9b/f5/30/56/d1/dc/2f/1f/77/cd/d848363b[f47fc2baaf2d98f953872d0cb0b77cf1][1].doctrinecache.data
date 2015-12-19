@@ -1,0 +1,44 @@
+1451095145
+s:2034:"<h2>What is this?</h2>
+<p>This is an instance of the Zentools2 module using the filter layout. It is published to the tabs position.</p>
+<p><img src="/docs/corporation/images/tabs/workshops.jpg" alt="Zentools2 Slideshow" /></p>
+<h2>Steps to recreate this module</h2>
+<p><strong> Module Manager </strong></p>
+<ol>
+<li>Navigate to the module manager in your Joomla administrator via extensions &gt; Module Manager</li>
+<li>Click new</li>
+<li>Select the zentools2 type module</li>
+<li>Give the module a name  eg We make Stuff</li>
+<li>Assign the module to a module position (above).</li>
+<li>Ensure the module is published</li>
+</ol>
+<p><img src="/docs/corporation/images/we-make-stuff/we-make-stuff-settings.png" alt="Module settings" /></p>
+<p><strong> Options </strong></p>
+<ol>
+<li>Select the filter layout</li>
+<li>Select your content source eg Joomla </li>
+<li>Set your layout tags eg image, title, introtext, readmore</li>
+</ol>
+<p><img src="/docs/corporation/images/we-make-stuff/we-make-stuff-layout.png" alt="Layout settings" /></p>
+<p>Image settings.
+<img src="/docs/corporation/images/we-make-stuff/image.png" alt="Image settings" />
+Title Settings
+<img src="/docs/corporation/images/we-make-stuff/title.png" alt="title settings" />
+Introtext Settings
+<img src="/docs/corporation/images/we-make-stuff/introtext.png" alt="Introtext settings" />
+Readmore Settings
+<img src="/docs/corporation/images/we-make-stuff/readmore.png" alt="Readmore settings" /></p>
+<ol>
+<li>Set your desired module settings eg slide duration etc</li>
+</ol>
+<p><img src="/docs/corporation/images/we-make-stuff/we-make-stuff-layout-settings.png" alt="Module Options" /></p>
+<p><strong> Content </strong></p>
+<ol>
+<li>Go to the content panel</li>
+<li>Adjust the content settings so that the module shows the correct content</li>
+</ol>
+<p><img src="/docs/corporation/images/we-make-stuff/we-make-stuff-content.png" alt="Module Content" /></p>
+<p><strong> Save the module </strong></p>
+<ol>
+<li>Click the save button in the top left of the page.</li>
+</ol>";

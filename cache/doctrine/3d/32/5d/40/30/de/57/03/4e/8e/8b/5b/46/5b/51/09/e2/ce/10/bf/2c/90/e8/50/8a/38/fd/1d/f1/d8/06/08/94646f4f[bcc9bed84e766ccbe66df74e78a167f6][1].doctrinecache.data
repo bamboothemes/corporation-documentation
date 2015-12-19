@@ -1,0 +1,25 @@
+1444189757
+s:1324:"<h4>What is this?</h4>
+<p>The three items that sit beneath the slideshow on the Medica frontpage is an instance of the Zentools2 module displaying items in a grid published to the grid1 position.</p>
+<p><img src="/docs/medica/images/frontpage/three-items.jpg" alt="Zentools grid" /></p>
+<p>The layout items being used are:</p>
+<ul>
+<li>Image</li>
+<li>Title</li>
+<li>Introtext</li>
+<li>Readmore</li>
+</ul>
+<h4>Module settings</h4>
+<p><img src="/docs/medica/images/frontpage/three-items-2.png" alt="Zentools grid layout" /></p>
+<p><img src="/docs/medica/images/frontpage/three-items-3.png" alt="Zentools grid source" /></p>
+<p><img src="/docs/medica/images/frontpage/three-items-1.png" alt="Zentools grid settings" /></p>
+<p>In addition to the above settings you need to apply two module classes to enhance the display. </p>
+<p><img src="/docs/medica/images/frontpage/three-items-class.png" alt="Zentools grid module class" /></p>
+<ol>
+<li>Navigate to the Advanced settings module tab</li>
+<li>Enter "primary nomargin" as the module classes.
+<ul>
+<li>nomargin further enhances the layout by remove unneeded margins from the module area.</li>
+<li>The primary class ensures that the background of the boxed item is set to a dark transparency so that the background color of the row underneath will display.</li>
+</ul></li>
+</ol>";

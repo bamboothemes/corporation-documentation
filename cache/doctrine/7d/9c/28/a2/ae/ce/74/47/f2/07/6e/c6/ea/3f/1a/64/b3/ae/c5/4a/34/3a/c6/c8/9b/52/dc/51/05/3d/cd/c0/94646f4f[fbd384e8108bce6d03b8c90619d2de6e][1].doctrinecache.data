@@ -1,0 +1,11 @@
+1444104810
+s:421:"<p>The font used for the text used in the logo custom html position is controlled via the template settings under the font panel.</p>
+<p>Available settings:</p>
+<ul>
+<li>Font weight</li>
+<li>Font size</li>
+<li>Line height</li>
+<li>Font family</li>
+</ul>
+<p>These settings only affect h1,h2,h3,h4,h5,h6 tags used in the logo position.</p>
+<p>Standard paragraph tags will inherit the settings defined for the body font.</p>";

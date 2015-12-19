@@ -1,0 +1,47 @@
+1451095907
+s:3858:"<h2>What is this?</h2>
+<p>The module that holds the information about the template.</p>
+<p>eg "A colourful and flexible Joomla template ..." </p>
+<p><img src="/docs/corporation/images/tabs/features.jpg" alt="Features module" /></p>
+<h2>Steps to recreate this module</h2>
+<p><strong> Module Manager </strong></p>
+<ol>
+<li>Navigate to the module manager in your Joomla administrator via extensions &gt; Module Manager</li>
+<li>Click new</li>
+<li>Select the custom html type module</li>
+<li>Copy the markup displayed below into the text area of the custom module.</li>
+<li>Assign the module to a module position (grid1).</li>
+<li>Ensure the module is published</li>
+<li>Give the module a title</li>
+<li>Set the module title to be hidden</li>
+<li>Save your new module.</li>
+</ol>
+<h2>Markup used in the module</h2>
+<pre><code>&lt;h3 style="text-align: center;"&gt;A colourful and flexible Joomla template built on a fast framework.&lt;/h3&gt;
+&lt;p style="text-align: center;"&gt;Corporation is a bright and beautiful Joomla 3+ template that is fast and lightweight out of the box. It features an awesome array of features that come standard with any of our Zen Grid Framework based themes.&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="images/democontent/corporation-responsive.png" alt="Corporation Template" /&gt;&lt;/p&gt;
+&lt;p&gt;{zen-row} {zen-4}&lt;/p&gt;
+&lt;p&gt;{zen-rocket}{/zen-rocket}&lt;/p&gt;
+&lt;h3&gt;Super Speedy&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Corporation achieves very high page speed and YSlow scores almost out of the box&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We built our template framework around the idea that any modern website needs to load quickly, and so with a few tweaks to the template settings and your htaccess file it's possible to achieve page speed scores in the high 80's or 90's for your website.&lt;/p&gt;
+&lt;p&gt;{/zen-4} {zen-4}&lt;/p&gt;
+&lt;p&gt;{zen-users}{/zen-users}&lt;/p&gt;
+&lt;h3&gt;Developer and Builder Friendly&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Whether this is the first site you build or you live and breathe html, css and javascript.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our framework is suitable for new users as well as seasoned professionals. There are enough tools in the template administrator to turn any Zen Grid Framework based theme into your own masterpiece or if you prefer to get your hands dirty by digging into the code the template can be easily overidden and customised.&lt;/p&gt;
+&lt;p&gt;{/zen-4} {zen-4}&lt;/p&gt;
+&lt;p&gt;{zen-tablet}{/zen-tablet}&lt;/p&gt;
+&lt;h3&gt;Flexible Responsive tools&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Built in control over breakpoints, menu options and more&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zen Grid Framework v4 based themes come with a wide range of tools to help you tweak the presentation of the design across various screen sizes. You can easily set the breakpoints for each screen size, choose from 5 different ways to handle the menu, and control the way different rows of modules behave across different devices.&lt;/p&gt;
+&lt;p&gt;{/zen-4} {/zen-row}&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a class="btn" href="http://www.joomlabamboo.com/joomla-templates/corporation"&gt;See all features&lt;/a&gt;&lt;/p&gt;</code></pre>
+<h2>Explanation</h2>
+<ul>
+<li>To make the button sit nicely to the right of the module and to allow the button to collapse to one line on small screens we have used the template's built in grid system.</li>
+<li>The icon is generated using the Zen Shortcode plugin</li>
+<li>The button is also generated using the Zen Shortcode plugin</li>
+</ul>
+<h2>Defining the background colour for the row of modules.</h2>
+<p>The colour behind this row is controlled via the template's <a href="/docs/corporation/display/theme-and-style/changing-row-styles">row style settings</a></p>";

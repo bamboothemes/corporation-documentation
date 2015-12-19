@@ -1,0 +1,16 @@
+1446074167
+s:697:"<p>The Medica demo site shows a number of different sub page layouts however the standard layout uses the following layout.</p>
+<p><strong>Modules used</strong></p>
+<ul>
+<li>Zentools2 / Custom html module / Search Module / Breadcrumb</li>
+</ul>
+<p><strong>Positions used</strong></p>
+<ul>
+<li>logo / top4 / panel / menu / banner / breadcrumbs / sidebar2</li>
+</ul>
+<p><img src="/docs/medica/images/sub-page/subpage-example.jpg" alt="Sub page" /></p>
+<h2>Description of modules</h2>
+<h4>Logo</h4>
+<p><a href="/logo">View instructions for setting up the logo</a></p>
+<h4>Large image behind menu and search box</h4>
+<p>This is an instance of the Zentools2 module published to the banner position.</p>";

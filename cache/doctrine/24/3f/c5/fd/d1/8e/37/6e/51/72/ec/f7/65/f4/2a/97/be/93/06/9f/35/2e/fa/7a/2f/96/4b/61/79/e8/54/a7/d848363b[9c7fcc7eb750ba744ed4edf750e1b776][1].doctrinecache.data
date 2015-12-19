@@ -1,0 +1,15 @@
+1451097170
+s:919:"<h2>What is this?</h2>
+<p>The grid of content that sits at the bottom of the page. This is a collection of custom html modules published to the bottom row of modules and the footer module position.</p>
+<p><img src="/docs/corporation/images/bottom/bottom.png" alt="Bottom Area" /></p>
+<h2>Steps to recreate this layout</h2>
+<p>The modules entitled About Us, Locations, Legal and Get in touch are all custom html modules with various types of content displayed.</p>
+<h2>Markup used in the About Us module.</h2>
+<pre><code>&lt;ul&gt;
+&lt;li&gt;Origin Story&lt;/li&gt;
+&lt;li&gt;Meet the Team&lt;/li&gt;
+&lt;li&gt;New additions&lt;/li&gt;
+&lt;li&gt;Want to work with us&lt;/li&gt;
+&lt;/ul&gt;</code></pre>
+<h2>Defining the background colour for the row of modules.</h2>
+<p>The colour behind this row is controlled via the template's <a href="/docs/corporation/theme-and-style/changing-row-styles">row style settings</a></p>";

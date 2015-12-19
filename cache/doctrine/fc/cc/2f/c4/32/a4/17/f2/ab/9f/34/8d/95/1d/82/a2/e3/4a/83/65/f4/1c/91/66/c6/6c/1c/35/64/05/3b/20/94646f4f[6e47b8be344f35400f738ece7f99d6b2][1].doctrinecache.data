@@ -1,0 +1,12 @@
+1444184280
+s:860:"<p>The Medica theme uses two discrete module positions to display the content under the menu area.</p>
+<p>The large image as seen in the screenshot below is a module published to the <strong>banner</strong> position while the search box that sits on top of that banner image is a module published to the <strong>bannerextra</strong> module position.</p>
+<p><img src="/docs/medica/images/frontpage/banner-content.jpg" alt="Banner content" /></p>
+<h4>Bannerextra offset</h4>
+<p>The top margin applied to the bannerextra module can be set in the template theme settings.</p>
+<ol>
+<li>Navigate to the theme panel in the template settings
+<img src="/docs/medica/images/frontpage/theme-panel.png" alt="Theme Panel" /></li>
+<li>Set the banner extra top margin
+<img src="/docs/medica/images/frontpage/bannerextra-offset.png" alt="Banner Extra top offset" /></li>
+</ol>";

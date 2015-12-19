@@ -1,0 +1,8 @@
+1447142927
+s:680:"<h2>What is this?</h2>
+<p>All Zen Grid Framework v4 themes have the ability to render the main menu as a one page menu that allows the user to smooth scroll to the specific row of modules on the page.</p>
+<p><img src="/docs/ascent2/images/one-page/one-page-menu.jpg" alt="Onepage menu" /></p>
+<p>When one page mode is enabled the main menu content is overridden and the one page menu is rendered.</p>
+<h2>Where are the menu titles for the one page menu set?</h2>
+<p>The titles for the one page menu are found in the menus panel of the template settings under the one page section.</p>
+<p><img src="/docs/ascent2/images/one-page/one-page-settings.jpg" alt="Onepage settings" /></p>";
