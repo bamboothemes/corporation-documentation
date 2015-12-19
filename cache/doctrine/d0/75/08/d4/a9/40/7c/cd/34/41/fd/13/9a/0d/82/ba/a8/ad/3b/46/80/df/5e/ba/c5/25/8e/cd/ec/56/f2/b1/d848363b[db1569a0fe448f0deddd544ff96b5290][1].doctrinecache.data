@@ -1,0 +1,15 @@
+1451107192
+s:1165:"<h2>What is this?</h2>
+<p>The two modules that sit at the bottom of the page, that "stick" to the page if the browser screen size and height are greater than the values specified in the template settings.</p>
+<p><img src="/docs/corporation/images/sticky/sticky.png" alt="Sticky" /> </p>
+<p>This template contains the stickyleft and stickyright module positions that appear here.</p>
+<h2>Markup used in the demo</h2>
+<p><strong>Who we are</strong></p>
+<pre><code>&lt;h3&gt;{zen-user}{/zen-user} Who we are?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt in sem eget ultricies.&lt;/p&gt;</code></pre>
+<p><strong>Contact Us</strong></p>
+<pre><code>&lt;h3&gt;{zen-envelope-o}{/zen-envelope-o} Contact Us&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt in sem eget ultricies.&lt;/p&gt;</code></pre>
+<h2>Controlling the colour of the block</h2>
+<p>The sticky footer background colours are determined by the colours assigned int he theme panel for the template in the Sticky Footer section.</p>
+<p><img src="/docs/corporation/images/sticky/sticky-settings.png" alt="Sticky" /> </p>";

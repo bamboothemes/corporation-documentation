@@ -4,4 +4,3 @@ taxonomy:
     category: docs
 ---
 
-### Coming Soon

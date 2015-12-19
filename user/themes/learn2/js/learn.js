@@ -73,9 +73,12 @@ function getScrollBarWidth () {
 
 jQuery(document).ready(function($){
 
-	jQuery("*").highlighter("zenmenu", "http://docs.joomlabamboo.com/zen-grid-framework-4/menus/Zen-menu-plugin");
-	jQuery("*").highlighter("zen grid framework", "http://docs.joomlabamboo.com/zen-grid-framework-4/");
-	jQuery("*").highlighter("Zen Shortcode plugin", "http://docs.joomlabamboo.com/zen-grid-framework-4/theme/shortcodes");
+	jQuery("*").not('h2').highlighter("zenmenu", "http://docs.joomlabamboo.com/zen-grid-framework-4/menus/Zen-menu-plugin");
+	jQuery("*").not('h2').highlighter("zen grid framework", "http://docs.joomlabamboo.com/zen-grid-framework-4/");
+	jQuery("*").not('h2').highlighter("Zen Shortcode plugin", "http://docs.joomlabamboo.com/zen-grid-framework-4/theme/shortcodes");
+	jQuery("*").not('h2').highlighter("Zen Shortcodes", "http://docs.joomlabamboo.com/zen-grid-framework-4/theme/shortcodes");
+	jQuery("*").not('h2').highlighter("Zentools2", "http://zentools2.joomlabamboo.com");
+	jQuery("*").not('h2').highlighter("Maps2", "http://www.joomlabamboo.com/joomla-extensions/maps2");
 
 
 	

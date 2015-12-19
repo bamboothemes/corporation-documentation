@@ -1,0 +1,38 @@
+1451114093
+s:2210:"<h1>Extensions used on the demo site</h1>
+<ul>
+<li>Zentools2 (module + 2 plugins installed via a package)</li>
+<li>Zenmenu (plugin)</li>
+<li>Zen Shortcodes (plugin)</li>
+<li>Maps2 (module)</li>
+</ul>
+<h2>Zentools2</h2>
+<p>Zentools2 is used extensively throughout this theme to create slideshows, grids, carousels etc.</p>
+<ul>
+<li><a href="http://zentools2.joomlabamboo.com">Demo</a></li>
+<li><a href="http://zentools2.joomlabamboo.com">Documentation</a></li>
+<li><a href="http://www.joomlabamboo.com/downloads/template-downloads?param=zentools2">Download</a></li>
+</ul>
+<h2>Zenmenu</h2>
+<p>Zenmenu is a plugin that adds mega menu functionality to your ZGF4 menu.</p>
+<ul>
+<li><a href="http://joomlabamboo.com/index.php?option=com_docman&task=doc_download&gid=694&Itemid=">Download</a></li>
+<li><a href="http://docs.joomlabamboo.com/zen-grid-framework-4/menus/Zen-menu-plugin">Documentation</a></li>
+</ul>
+<p>Zenmenu is used to add icons, subtitles, group and multiple columns to menu items.</p>
+<p><img src="/docs/corporation/images/zenmenu/zenmenu.jpg" alt="Zenmenu" /></p>
+<h2>Maps2</h2>
+<p>Maps2 is a module used to display a google map in a module.</p>
+<ul>
+<li><a href="http://www.joomlabamboo.com/joomla-extensions/maps2">Features</a></li>
+<li><a href="http://joomlabamboo.com/index.php?option=com_docman&task=doc_download&gid=677&Itemid=">Download</a></li>
+<li><a href="http://docs.joomlabamboo.com/joomla-extensions/jb-maps2-documentation">Documentation</a></li>
+</ul>
+<h2>Zen Shortcodes</h2>
+<p>A plugin that is used to render font icons and other styling on the page via simple syntax.</p>
+<ul>
+<li><a href="http://joomlabamboo.com/index.php?option=com_docman&task=doc_download&gid=695&Itemid=">Download</a></li>
+<li><a href="http://docs.joomlabamboo.com/zen-grid-framework-4/theme/Using-shortcodes.html">Documentation</a></li>
+</ul>
+<h4>What is this?</h4>
+<p>The Zen Shortcode plugin is an updated version of our original JB Type plugin. Zen Shortcode has been specifically designed for use with the Zen Grid Framework v4. If you are using a template that is not compatible with Zen Grid Framework v4 please use the JB Type plugin in order to render functionality similar to the examples below.</p>";

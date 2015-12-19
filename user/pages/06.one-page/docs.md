@@ -7,7 +7,6 @@ taxonomy:
 ## What is this?
 All Zen Grid Framework v4 themes have the ability to render the main menu as a one page menu that allows the user to smooth scroll to the specific row of modules on the page.
 
-![Onepage menu](/images/one-page/one-page-menu.jpg)
 
 When one page mode is enabled the main menu content is overridden and the one page menu is rendered.
 

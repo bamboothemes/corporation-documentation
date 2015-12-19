@@ -1,0 +1,6 @@
+1451113892
+s:611:"<p>The logo for the Corporation template uses a combination of an image and text in a custom html module published to the logo position.</p>
+<p>The markup used for the logo in this template is as per the following:</p>
+<pre><code>&lt;h2&gt;&lt;a href="http://zenbamboo.local:5757/dev/corporate/"&gt;CORPORATION&lt;/a&gt;&lt;/h2&gt;</code></pre>
+<p>Images published to the logo position are designed to sit to the left of any text displayed in the custom html.</p>
+<p>The logo used on the demo can be downloaded from <a href="http://bambootheme.com/showcase/oct15/images/logo/Mountain-Icon.svg.png">here</a>.</p>";

@@ -1,0 +1,14 @@
+1451113218
+s:997:"<p>The corporation demo site utilises a layout with a right sidebar for most of it's sib pages.</p>
+<p><strong>Modules used</strong> -
+Zentools2 / Custom html module / Breadcrumb</p>
+<p><strong>Positions used</strong> -
+logo / header4 / panel / menu / banner / breadcrumbs / sidebar2 /offcanvas</p>
+<p><img src="/docs/corporation/images/sub-page/subpage-example.jpg" alt="Sub page" /></p>
+<h2>We Relaunched our website text</h2>
+<p>Please see this document for a description of how this was created.</p>
+<p><a href="/docs/corporation/display/front-page/slogan">See more</a></p>
+<h2>Sidebar content</h2>
+<p>All four modules seen int he sidebar are instances of the Zentools2 module.</p>
+<p>The first item uses a single Joomla contact as a source for the content. While the other items use a one column grid layout to display it's various content.</p>
+<p><a href="/docs/corporation/display/front-page/tabbed-modules/about-us">For a guide on how to create a zentools2 module see this document</a></p>";
