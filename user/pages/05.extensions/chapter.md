@@ -27,8 +27,7 @@ Zenmenu is a plugin that adds mega menu functionality to your ZGF4 menu.
 
 Zenmenu is used to add icons, subtitles, group and multiple columns to menu items.
 
-![Zenmenu](/images/zenmenu/zenmenu.jpg)
- 
+
 
 
 ## Maps2
